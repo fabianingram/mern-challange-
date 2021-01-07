@@ -24,10 +24,7 @@ To install, simply clone the app and git init the json packages. Once on node, y
 
 ---
 ## License
-
-  The application is covered under the MIT license.
-
-  ![Badge](https://img.shields.io/badge/License-MIT-blueviolet)
+none
 
 ## Contributing
 
@@ -43,8 +40,8 @@ JavaScript, ES6, Node.js, Apollo, Server, Express, React, Bootstrap
 
 ## For More Information
 
-* jesusmanteca@gmail.com
-* [Link to Repo](https://github.com/jesusmanteca)
+* fabianjammalingram@gmail.com
+* [Link to Repo](https://github.com/fabianingram
 * [Link to Live Site](https://tranquil-ravine-07521.herokuapp.com/)
 
 
